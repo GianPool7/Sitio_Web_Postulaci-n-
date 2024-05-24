@@ -1,0 +1,13 @@
+[21-Nov-2023 17:43:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/ibpastor/public_html/bolsalaboral-principal/Egresados/Encuesta/conexion.php on line 7
+[21-Nov-2023 17:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home1/ibpastor/public_html/bolsalaboral-principal/Egresados/Encuesta/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/ibpastor/public_html/bolsalaboral-principal/Egresados/Encuesta/index.php on line 11
+[21-Nov-2023 17:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home1/ibpastor/public_html/bolsalaboral-principal/Egresados/Encuesta/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/ibpastor/public_html/bolsalaboral-principal/Egresados/Encuesta/index.php on line 11
+[21-Nov-2023 17:43:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home1/ibpastor/public_html/bolsalaboral-principal/Egresados/Encuesta/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/ibpastor/public_html/bolsalaboral-principal/Egresados/Encuesta/index.php on line 11
